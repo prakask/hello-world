@@ -1,2 +1,2 @@
 # hello-world
-First sample project
+Python Learning Code First sample project
