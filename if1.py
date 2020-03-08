@@ -5,9 +5,9 @@ if a>b:
 else:
     print "B is big"
 
-if b=1:
+if b==1:
     print b
-elif b = 3:
+elif b == 3:
     print b
-elif b = 6:
+elif b == 6:
     print b
